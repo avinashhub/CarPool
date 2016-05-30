@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<beans id="person" class="com.webapp.first.Firstapp.Person"></beans>
+</beans>
