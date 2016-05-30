@@ -8,7 +8,7 @@
         <title>welcome</title>
     </head>
     <body>
-    
+    <h1>hamara car</h1>
     <form action="login.html">
          name<input type="text" name="name"><br>
     password<input type="text" name="pass"><br>
